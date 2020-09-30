@@ -4,7 +4,7 @@ import HighlightIcon from "@material-ui/icons/Highlight";
 function Header() {
   return (
     <header>
-      <h1><HighlightIcon />Keeper</h1>
+      <h1><HighlightIcon />Something Changed</h1>
     </header>
   );
 }
